@@ -1,0 +1,8 @@
+prefix=/Users/gonz495/Downloads/Interns/luigi/dvs/ros_catkin_ws/install
+
+Name: cmake_modules
+Description: Description of cmake_modules
+Version: 0.5.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

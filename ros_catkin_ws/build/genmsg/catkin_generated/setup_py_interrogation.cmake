@@ -1,0 +1,7 @@
+set(genmsg_SETUP_PY_SETUP_MODULE "setuptools")
+set(genmsg_SETUP_PY_VERSION "0.5.16")
+set(genmsg_SETUP_PY_SCRIPTS "")
+set(genmsg_SETUP_PY_PACKAGES "genmsg")
+set(genmsg_SETUP_PY_PACKAGE_DIRS "src/genmsg")
+set(genmsg_SETUP_PY_MODULES "")
+set(genmsg_SETUP_PY_MODULE_DIRS "")
