@@ -1,6 +1,6 @@
 class coordinate_point:
-    def __init__(self, time, x_point, y_point, polarity):
-        self.time = time
+    def __init__(self, timestep, x_point, y_point, polarity):
+        self.timestep = timestep
         self.x_point = x_point
         self.y_point = y_point
         self.polarity = polarity
